@@ -1,1 +1,1 @@
-In this task I have applied callback hell to complete.
+I have used callback hell to finish this task.
